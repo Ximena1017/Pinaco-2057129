@@ -1,0 +1,13 @@
+header {
+  position: fixed;
+  width: 100%;
+  background: transparent !important;
+  z-index: 10;
+}
+.nav-item {
+  font-size: 19px;
+  font-weight: bold;
+}
+.navbar-light .navbar-toggler {
+  border-color: transparent;
+}

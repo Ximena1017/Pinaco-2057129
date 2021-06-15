@@ -1,0 +1,23 @@
+.Container {
+  overflow: hidden;
+}
+.las-profes {
+  font-family: "Poppins", sans-serif;
+  font-size: 60px;
+}
+.card-img-top {
+  width: 250px;
+  height: 250px;
+}
+.card-body {
+  font-family: "Just Another Hand", cursive;
+}
+.card-title {
+  font-family: "Poppins", sans-serif;
+  font-size: 90;
+  margin-top: 150px;
+}
+.Contacto {
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
+}
